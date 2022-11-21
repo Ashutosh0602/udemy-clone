@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Ashutosh0602/udemy-clone.git/static/css/main.bc9417c7.css",
+    "main.js": "/Ashutosh0602/udemy-clone.git/static/js/main.cdf5b238.js",
+    "index.html": "/Ashutosh0602/udemy-clone.git/index.html",
+    "main.bc9417c7.css.map": "/Ashutosh0602/udemy-clone.git/static/css/main.bc9417c7.css.map",
+    "main.cdf5b238.js.map": "/Ashutosh0602/udemy-clone.git/static/js/main.cdf5b238.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc9417c7.css",
+    "static/js/main.cdf5b238.js"
+  ]
+}
