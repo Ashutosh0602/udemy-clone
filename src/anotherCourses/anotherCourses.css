@@ -1,0 +1,21 @@
+.upperBound {
+  background-color: rgb(243, 243, 243);
+  position: relative;
+}
+.boundImage {
+  background-color: rgb(208, 208, 208);
+  padding: 1rem;
+  border-radius: 50%;
+}
+.boundImage > img {
+  width: 1.5rem;
+  height: 1.5rem;
+}
+.boundText {
+  max-width: 25rem;
+  height: 100%;
+}
+.boundText > div {
+  display: inline-block;
+  vertical-align: middle;
+}

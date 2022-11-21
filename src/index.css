@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  font-family: SuisseWorks, Georgia, Times, "times new roman", serif,
+    "apple color emoji", "segoe ui emoji", "segoe ui symbol";
+  font-size: 16px;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+  font-family: "udemy sans", "sf pro text", -apple-system, "system-ui", Roboto,
+    "segoe ui", Helvetica, Arial sans-serif, "apple color emoji",
+    "segoe ui emoji", "segoe ui symbol";
+}
+@media screen and (max-width: 992px) {
+  body {
+    font-size: 14px;
+  }
+}

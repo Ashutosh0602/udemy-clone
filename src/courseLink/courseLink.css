@@ -1,0 +1,19 @@
+.courseLink_sec {
+  padding-left: 3rem;
+  margin-top: 5rem;
+}
+.course_link {
+  text-decoration: underline;
+  color: rgb(14, 74, 178);
+}
+.course_explore {
+  margin-top: 1rem;
+  border: 2px solid black;
+  font-size: 0.85rem;
+  width: 10rem;
+  height: 3rem;
+  text-align: center;
+}
+.explore_button:hover {
+  background-color: rgb(240, 240, 240);
+}

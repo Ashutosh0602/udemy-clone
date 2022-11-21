@@ -1,0 +1,24 @@
+.upperSection {
+  width: 100vw;
+  position: relative;
+  z-index: -10;
+}
+.upperSection_banner {
+  display: inline-block;
+}
+.banner_img {
+  background-position: right;
+  background-size: cover;
+}
+.upperSection_cont {
+  width: 30rem;
+  padding: 1rem;
+  background-color: white;
+}
+.upperSection_cont {
+  position: absolute;
+  top: 50%;
+  left: 10%;
+  box-shadow: 2px 2px 2px 2px black;
+  transform: translateY(-50%);
+}

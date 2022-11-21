@@ -1,0 +1,32 @@
+.middleCourse_section {
+  margin: 3rem;
+}
+.course > div {
+  color: gray;
+}
+.course > div:hover {
+  color: black;
+  cursor: pointer;
+}
+.middleCourse_section_inner {
+  padding: 1.5rem;
+  border: 1px solid rgb(181, 181, 181);
+  border-radius: 2px;
+}
+.middleCourse_section_inner_detail {
+  max-width: 60rem;
+}
+.explore_button {
+  margin-top: 1rem;
+  border: 2px solid black;
+  width: 10rem;
+  height: 3rem;
+  text-align: center;
+}
+.explore_button > div {
+  display: inline-block;
+  vertical-align: middle;
+}
+.explore_button:hover {
+  background-color: rgb(240, 240, 240);
+}
